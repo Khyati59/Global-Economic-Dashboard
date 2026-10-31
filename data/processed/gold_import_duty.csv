@@ -1,0 +1,10 @@
+country,country_code,product_code,product_description,year,gold_import_duty_pct,source,tariff_data_type
+Australia,AUS,710812,Other unwrought non-monetary gold,2023,0.0,World Bank WITS / UNCTAD TRAINS,Reported
+China,CHN,710812,Other unwrought non-monetary gold,2023,0.0,World Bank WITS / UNCTAD TRAINS,Reported
+India,IND,710812,Other unwrought non-monetary gold,2023,12.5,World Bank WITS / UNCTAD TRAINS,Reported
+Japan,JPN,710812,Other unwrought non-monetary gold,2023,0.0,World Bank WITS / UNCTAD TRAINS,Reported
+Singapore,SGP,710812,Other unwrought non-monetary gold,2023,0.0,World Bank WITS / UNCTAD TRAINS,Reported
+South Africa,ZAF,710812,Other unwrought non-monetary gold,2023,0.0,World Bank WITS / UNCTAD TRAINS,Reported
+Switzerland,CHE,710812,Other unwrought non-monetary gold,2023,0.0,World Bank WITS / UNCTAD TRAINS,Reported
+United Arab Emirates,ARE,710812,Other unwrought non-monetary gold,2023,0.0,World Bank WITS / UNCTAD TRAINS,Reported
+United States,USA,710812,Other unwrought non-monetary gold,2023,2.04999995231628,World Bank WITS / UNCTAD TRAINS,Reported

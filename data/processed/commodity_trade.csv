@@ -1,0 +1,12 @@
+country,country_code,year,commodity,flow,trade_value_usd
+Saudi Arabia,SAU,2023,gold,imports,7310614894.301
+Saudi Arabia,SAU,2023,gold,exports,1408748981.048
+Norway,NOR,2023,gold,imports,4704701.944
+Norway,NOR,2023,gold,exports,154930537.062
+Saudi Arabia,SAU,2023,crude_oil,exports,175993253253.989
+Germany,DEU,2023,crude_oil,imports,46164915121.143
+Germany,DEU,2023,crude_oil,exports,1229428.075
+Germany,DEU,2023,gold,imports,5142595675.994
+Germany,DEU,2023,gold,exports,10305579978.089
+Norway,NOR,2023,crude_oil,imports,1209585410.4
+Norway,NOR,2023,crude_oil,exports,50212905016.023
